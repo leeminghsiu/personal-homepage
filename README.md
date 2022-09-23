@@ -11,6 +11,6 @@
   - enter the link down below and browse around
 - Link to page: https://personal-homepage.ming-hsiuhsiu.repl.co/
 - This is a student project of this class: https://johnguerra.co/classes/webDevelopment_fall_2022/
-- Link to the video demonstration:
+- Link to the video demonstration: https://www.youtube.com/watch?v=cWhg6ma0yzc
 - Link to the presentation slide: https://docs.google.com/presentation/d/13GJSQSCt8V-exDQrOUkOOpSKz2TaUnSbSkPAdbl9CyE/edit?usp=sharing
  
