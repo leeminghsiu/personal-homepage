@@ -1,3 +1,6 @@
+/* Code Review Comment: 
+  Would love to see the CSS styling file organized in a separate folder */
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -238,6 +241,8 @@
     opacity: 1;
   }
 }
+
+/* Code Review Comment: Love these CSS animations flexing */
 
 @keyframes swimmer {
   0% {
